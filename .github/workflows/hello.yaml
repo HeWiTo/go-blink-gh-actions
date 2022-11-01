@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Heello GitHub Actions!
-        uses: echo "Hello Github"
+        run: echo "Hello Github"
